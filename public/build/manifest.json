@@ -1,0 +1,23 @@
+{
+  "resources/js/Pages/Home.jsx": {
+    "file": "assets/Home-Dok_Qwku.js",
+    "name": "Home",
+    "src": "resources/js/Pages/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-rLdnK5WJ.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Home.jsx"
+    ],
+    "css": [
+      "assets/app-BWjZdgbN.css"
+    ]
+  }
+}
