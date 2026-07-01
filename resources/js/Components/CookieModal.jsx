@@ -85,7 +85,7 @@ export const CookieModal = ({ acceptCookies, visible }) => {
     }
 
     return (
-        <div className={`fixed bottom-0 left-0 right-0 z-[197] ${isFadingOut ? 'animate-fade-out-down' : ''}`}>
+        <div className={`fixed bottom-0 left-0 right-0 z-[197] font-secondary ${isFadingOut ? 'animate-fade-out-down' : ''}`}>
             <div className="container max-w-full">
                 <div className={`bg-white max-w-5xl mx-auto px-4 sm:px-8 py-4 2xl:py-6 shadow-md mb-10${showSecondStep ? ' animate-fade-in-down' : ''}`}>
                     {!showSecondStep ? (
