@@ -88,7 +88,7 @@ export const HeroSection = () => {
           {/* Social icons */}
           <div className="flex items-center gap-3 mt-6 md:mt-8">
             <a
-              href="https://www.instagram.com/vividus"
+              href="https://www.instagram.com/vividus.ag/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Vividus no Instagram"
@@ -100,7 +100,7 @@ export const HeroSection = () => {
               <InstagramIcon />
             </a>
             <a
-              href="https://www.linkedin.com/company/vividus"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Vividus no LinkedIn"

@@ -13,7 +13,7 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['momento-vf', ...defaultTheme.fontFamily.sans],
+                sans: ['momento', ...defaultTheme.fontFamily.sans],
                 secondary: 'degular-variable',
                 tertiary: 'degular-mono'
             },
