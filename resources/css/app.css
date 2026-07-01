@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'momento';
-    src: url('/fonts/Momento-Light.ttf') format('truetype');
+    src: url('/fonts/Momento-Light.otf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -20,7 +20,7 @@
 
 @font-face {
     font-family: 'momento';
-    src: url('/fonts/Momento-Medium.ttf') format('truetype');
+    src: url('/fonts/Momento-Medium.otf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -28,7 +28,7 @@
 
 @font-face {
     font-family: 'momento';
-    src: url('/fonts/Momento-Bold.ttf') format('truetype');
+    src: url('/fonts/Momento-Bold.otf') format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
