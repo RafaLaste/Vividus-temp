@@ -98,8 +98,8 @@ const DefaultLayout =({ children, title = 'Vividus — Em breve', description = 
                 },
               ],
               sameAs: [
-                'https://www.instagram.com/vividus',
-                'https://www.linkedin.com/company/vividus',
+                'https://www.instagram.com/vividus.ag/',
+                'https://www.linkedin.com/company/agencia-vividus/',
               ],
             }),
           }}
