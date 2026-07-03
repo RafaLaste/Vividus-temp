@@ -100,7 +100,7 @@ export const HeroSection = () => {
               <InstagramIcon />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/company/agencia-vividus/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Vividus no LinkedIn"
